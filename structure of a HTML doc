@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="UTF-8">
+     <title>My first HTML Page</title>
+</head>     
+<body>
+     <!-- Other HTML elements-->
+     <p>This is an Paragrph</p>
+     <h1> this is a heading tag</h1>
+</body>
+</html>
