@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+     
+     <title>HTML - embed images</title>
+</head>     
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCsbq6
+    LXtl9bm46L8JWL_D4t9gweoFbvluSw&usqp=CAU" alt="my golden" width="600" height="350"/>
+   <--img src="/ " alt="my golden" width="600" height="350"/--><-- offline images-->
+
+</body>
+</html>
