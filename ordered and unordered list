@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+     
+     <title>HTML - list</title>
+</head>     
+<body>
+  <h>Planets in Solar system </h>
+  <ol type="A">
+    <li>Mercury<li/>  <-- default is numbers-->
+    <li>Venus<li/>
+    <li>Earth<li/>
+    <li>Mars<li/>
+    <li>Jupiter<li/>
+    <li>Saturn<li/>
+    <li>Uranus<li/> 
+    <li>Nepturn<li/>
+    <li>Pluto<li/>
+  </ol>
+</body>
+</html>
